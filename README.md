@@ -17,9 +17,9 @@ I’m a third-year student at Posts and Telecommunications Institute of Technolo
 ---
 
 ### Skills & Technologies
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Pygame, Flask (basic)
-- **Tools:** Git, GitHub, VSCode
+- **Languages:** Python, JavaScript, HTML, CSS, C++, Java
+- **Frameworks & Libraries:** Pygame, Flask (basic),...
+- **Tools:** Git, GitHub, VSCode, Pycharm, UI Designer
 - **Concepts:** Object-Oriented Programming, Game Design, UI/UX basics
 
 ---
@@ -31,9 +31,6 @@ I’m a third-year student at Posts and Telecommunications Institute of Technolo
 - [Platformer Game](https://github.com/Ryhtruly/Demo)  
   A 2D platformer game built with Pygame featuring smooth controls and multiple levels.
 
-- [Personal Portfolio](https://github.com/Ryhtruly/MinhluNguyen02-project_web)  
-  My portfolio website built with HTML & CSS showcasing my projects and skills.
-
 ---
 
 ### Goals
@@ -44,8 +41,7 @@ I’m a third-year student at Posts and Telecommunications Institute of Technolo
 ---
 
 ### Get in Touch
-- 📧 Email: lehuutri@example.com  
-- 🌐 LinkedIn: [linkedin.com/in/lehuutri](https://linkedin.com/in/lehuutri) *(nếu có)*  
+- 📧 Email: lehuutri1609@gmail.com  
 - 🎥 YouTube: [moshiiiiiii4407](https://www.youtube.com/@moshiiiiiii4407)
 
 ---
